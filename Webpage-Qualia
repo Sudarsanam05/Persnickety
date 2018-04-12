@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Portfolio</title>
+	<meta name="Sudarsanam" description="Portfolio">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="content" content="after 10years">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+</head>
+<body>
+	<div class="sitewrap">
+	<header>
+		<h1><img src="images/logo2.png"></h1>
+		<div class="disp">
+		<i class="fa fa-bars"></i>
+		</div>
+		<nav>
+		<div class="show">
+		<a href="project.html">Home</a>
+		<a href="#skils">Skills</a>
+		<a href="#experience">Experience</a>
+		<a href="#about">About me</a>
+		<a href="#contactme">Contact me</a>
+		</div>
+		</nav>
+	</header>
+	<div class="intro">
+	<div class="video">
+		<video width="100%" height="auto" muted autoplay>
+			<source src="videos/cover2.mp4" type="video/mp4">
+			<source src="videos/cover" type="video/mp4">
+		</video>
+	</div>
+			<div class="text">
+				<h3><a href="project.html">N.Sudarsanam</a></h3>
+				<p>UI Developer</p>
+			</div>
+		</div>
+		<div class="skils" id="skils">
+			<h3><span>My Skills</span></h3>
+			<div class="circle skill">
+				<p>Skills</p>
+			</div>
+			<div class="wrapper">
+				<ul>
+				<li><h4><span>Developer</span></h4></li>
+				<li><img src="images/html1.png" /> HTML/CSS</li>
+				<li><img src="images/android.png"/> Android</li>
+				<li><img src="images/java4.png" /> Core JAVA</li>
+				<li><img src="images/c.png" /> Basics of C,C++</li>
+				<li><h4><span>Designer</span></h4></li>
+				<li><img src="images/ps.png" /> Photoshop</li>
+				<li><img src="images/illustrator.png" /> Illustrator</li>
+				<li><img src="images/corel.png" /> Coreldraw</li>
+				<li><img src="images/fire.png" /> Fireworks</li>
+				</ul>
+			</div>
+			<div class="extra">
+			<h5>Extra Skills</h5>
+					<ul>
+					<li>PLC &amp; SCADA</li>
+					<li>AUTOCAD</li>
+					</ul>
+			</div>
+			<div class="services">
+				<h5>Services</h5>
+				<ul>
+				<li><img src="images/ui.png" /> UI Development</li>
+				<li><img src="images/logo.png" /> LOGO Design</li>
+				<li><img src="images/responsive.png" />Responsive web design</li>
+				<li><img src="images/ecommerce.png" />ECommerce</li>
+				<li><img src="images/web.png" />Website Design &amp; Development</li>
+				<li><img src="images/integrate.png" />Integrated Approach</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="experience" id="experience">
+			<h3>Experience</h3> 
+			<div class="circle">
+				<img src="images/experience.png">
+				<!-- <p>Experience</p> -->
+			</div>
+			 <div class="expertext">
+				<p>You are looking at my Experience. I have been working in many projects and simple designer for past 10years. My Position is Senior UI developer. I have been working in various organisations that provides equal opportunities for faster growth as an individual as well as professionally and to lead or to be a highly dynamic team that support teamwork and leadership qualities in the organisation and to deliver timely results without compromising quality.</p><p>Excellent knowledge in all areas of design computers and the internet. Worked with roles including Junior web designer and senior web designer. Capability of client handling and requirement analysis. Capable to handle the new leading technologies. Ability to work well in both a team environment and individual environment.Get in touch to know more about my projects<a href="experience.html">Touch base</a></p>
+			</div> 
+			<div class="clear"></div>
+		</div>
+		<div class="about" id="about">
+			<!-- <img src="images/aboutme.jpg" /> -->
+			<h3>About me</h3>
+			<p>I am Sudarsanam and I am a bachelor of <b>Anna University</b>. Through my work experiences which include graduate skills programme. I have developed a wide skill and become a good communicator and experienced developer.</p> <p> My goal is simple – to ensure beautiful, usable interfaces through handcrafted semantic code that produces a satisfying experience for every visitor to your website. While my vision is noble, we back up that vision with reliable, trustworthy, professional service, high-quality industry competence, and unparalleled creativity and passion that make a distinct difference in the designs we create.I am simple and work consistently</p>. <p>I trust in delivering quality and loves working with startups and enjoys the challenge of crafting beautiful and intuitive experiences out of seemingly complex interactions. Looks forwards for an interesting adventure projects.</p>
+		</div>
+		<div class="clear"></div>
+		<div class="repo" id="repo">
+			<h6> <span>I've had the privilege of working with awesome people</span></h6>
+			<div class="known">
+			<p>"Sudarsanam is one of the best designers I have ever worked with. He went out of his way to understand the user, and designed a product that is easy for users to understand, yet looks beautiful. His eye for design is unique, and he took responsibilities in the project outside of his scope, such as getting the landing page created.He is brilliant, easy and fun to work with, and I would always work with him again"   - Pim de Witte | Technical Project Manager at DWB/MSF</p></div>
+			<div class="known"><p>“When building a company, the brand and overall design is what will make it or break it. Sudarsanam knows how to design a trusting image, that can get a clear and actionable message across. His design expertise and mentorship is also reflected in the high quality design of our student-created startups.” - Eddy Zhong | Founder and CEO of  Leangap</p></div>
+
+			<div class="known"><p>“Sudarsanam has been a great mentor to me since the beginning of my UX/UI design program. When we reviewed my coursework and designs, he ensured that I saw the greater UX concept as well as details down to the pixels. His mentorship has definitely accelerated my learning process as I transition into finding a new role in the tech industry.”- Thomas Koo | Springboard Mentee</p></div>
+			<div class="clear"></div>
+		</div>
+
+		<div class="contactme" id="contactme">
+			<h3>Contact me</h3>
+			<p><i class="fa fa-map-marker"></i> Chennai</p>
+			<p><i class="fa fa-mobile"></i> 9003719101/9551050143</p>
+			<p><i class="fa fa-envelope-o"></i> sudarsanameee@gmail.com</p>
+			<p><i class="fa fa-facebook"></i> /facebook/sudarsanam</p>	
+		</div>
+		<footer>
+			<p> &#0169; copyrights reserved by Sudarsanam @2017-2024</p>
+		</footer>
+	</div>
+	<script>
+$(document).ready(function(){
+    $('.disp').click(function(){
+        $("nav").toggle();
+    });
+});
+</script>
+</body>
+</html>
+
+
+/* --------------reset css------------------------ */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* -----------Layout1----- */
+.sitewrap_l1
+{
+	width:100%;
+	height:auto;
+	margin:0 auto;
+	margin-top: 50px;
+}
+.l1_col1
+{
+	width:45%;
+	height: 600px;
+	float:left;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.l1_col2
+{
+	width:50%;
+	height: 900px;
+	background-color: #e2e2e2;
+	margin:0 auto;
+	float: left;
+	margin-bottom: 10px;
+	border-radius: 7px;
+	
+}
+footer
+{
+	width: 50%;
+	height: 50px;
+	background-color: #e2e2e2;
+	margin-right: 47px;
+	float: right;
+	border-radius: 7px;
+}
+.clear
+{
+	clear: both;
+}
+
+.big_l1
+{
+	width: 100%;
+	height:400px;
+	margin:0 auto;
+	background-color: black;
+}
+.small_l1
+{
+	width: 49.55%;
+	height: 200px;
+	background-color: black;
+	margin-top: 10px;
+	float: left;
+	box-sizing: border-box;
+	margin-right: 5px;	
+}
+.right
+{
+	margin-right: 0px;
+}
+
+.sitewrap
+{
+	width: 1200px;
+	height: 1100px;
+	margin: 0 auto;
+
+}
+
+header
+{
+   width:100%;
+   height:80px;
+  }
+  header nav
+  {
+  	float: right;
+    }
+    header nav a
+    {
+    	padding: 0 20px 0 20px;
+    	height: 80px;
+    	line-height: 80px;
+    	text-decoration: none;
+    	text-transform: uppercase;
+    }
+  header h1 a
+  {
+  	float: left;
+  }
+header h1 a
+{
+	background: url(../images/logo.png);
+	text-indent: 999em;
+	display: block;
+	width: 105px;
+	height: 80px;
+	
+}
+.clearboth
+{
+ clear:both;
+}
+.col1
+{
+  float:left;
+  width: 790px;
+  height: 300px;
+}
+
+
+.col2
+{
+  float: left;
+  width: 380px;
+  height: 300px;
+  padding: 0 0px 0 26px;
+}
+
+
+.box
+{
+  background-color: black;
+  width: 380px;
+  height: 250px;
+  position: relative;
+}
+.small
+{
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  position: absolute;
+  left: 20px;
+  top: -10px;
+  background-color: blue;
+  color: white;
+}
+.small p
+{
+  display: block;
+  margin: 0;
+  font-size: 50px;
+  font-family: times;
+  text-align: center;
+  padding-top: 12px;
+  line-height: 40px;
+  
+}
+.p1
+{
+  padding-top: 40px;
+}
+.p1 p
+{
+  color: white;
+  font-family: times;
+  font-size: 80px;
+  text-align: center;
+  margin: 0;
+
+}
+.p2 p
+{
+  color: white;
+  font-family: times;
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+
+}
+.clearboth1
+{
+  clear: both;
+}
+.box1
+{
+  width:400px;
+  float: left;
+  padding-top: 300px;
+  text-align: center;
+
+}
+.circle1
+{
+   width: 250px;
+   height: 250px;
+   background-color: #ff4500;
+   border-radius: 50%; 
+   margin: 0 auto; 
+}
+.blue .circle1
+{
+  background-color: #00ced1;
+}
+.blue1 .circle1
+{
+  background-color: #20b2aa;
+}
+
+.circle1 img
+{
+  padding: 40px;
+}
+.clearboth2
+{
+  clear: both;
+}
+@media (max-width: 800px) {
+  header{
+   background-color: blue;
+  }  
+}
